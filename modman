@@ -1,0 +1,7 @@
+Cata_Spreadsheet.xml app/etc/modules/Cata_Spreadsheet.xml
+code/Spreadsheet app/code/community/Cata/Spreadsheet
+
+# frontend
+design/layout/cataspreadsheet.xml app/design/frontend/base/default/layout/cataspreadsheet.xml
+design/template/cataspreadsheet app/design/frontend/base/default/template/cataspreadsheet
+skin skin/frontend/base/default/cataspreadsheet/

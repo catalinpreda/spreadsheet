@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Cata_Spreadsheet>
+            <version>0.0.1</version>
+        </Cata_Spreadsheet>
+    </modules>
+</config>
