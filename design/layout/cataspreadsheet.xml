@@ -11,6 +11,11 @@
             <type>skin_js</type>
             <name>cataspreadsheet/js/spreadsheet.js</name>
         </action>
+
+        <action method="addItem">
+            <type>skin_css</type>
+            <name>cataspreadsheet/css/spreadsheet.css</name>
+        </action>
     </reference>
 
     <reference name="content">
