@@ -1,6 +1,12 @@
 <?xml version="1.0"?>
 
 <catalog_product_view>
+    <reference name="head">
+        <action method="addItem">
+            <type>skin_js</type>
+            <name>cataspreadsheet/js/jquery-3.1.1.min.js</name>
+        </action>
+    </reference>
     <reference name="content">
         <block type="core/template" name="product.cata.spreadsheet" as="product_cata_spreadsheet" template="cataspreadsheet/table.phtml" />
     </reference>
