@@ -1,6 +1,6 @@
 # Magento Spreadsheet
 
-This is an extension for Magento 1.x. It's basically just a test solution to a particular problem. It contains the solution to that problem, packaged as a Magento module.
+This is an extension for Magento 1.x. It's basically just a solution to a particular test problem. It contains the solution to that problem, packaged as a Magento module.
 
 # Installation
 
