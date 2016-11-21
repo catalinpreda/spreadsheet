@@ -24,4 +24,4 @@ modman clone git@github.com:catalinpreda/spreadsheet.git
 ```bash
 git clone git@github.com:catalinpreda/spreadsheet.git
 ```
-- Move module files by hand, following the map inside the `modman` file.
+- Move module files by hand into your Magento folder, following the map inside the `modman` file.
