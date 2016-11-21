@@ -1,4 +1,7 @@
 
+<h3 class="title"><?php echo $this->__('Magento Spreadsheet') ?></h3>
+<p><?php echo $this->__('This beautiful Magento spreadsheet holds data. Feel free to add your own data in any field and hit "save". Or add a key and hit "load" to populate it.') ?></p>
+
 <table id="catalin-spreadsheet-table" class="data-table">
     <?php for ($x = 0; $x <= 7; $x++): ?>
         <tr>
@@ -11,7 +14,7 @@
     <?php endfor ?>
 </table>
 
-<form action="#">
+<form id="catalin-spreadsheet-form" action="#">
     <div class="input-box">
         <input type="text" id="catalin-spreadsheet-key" name="catalin-spreadsheet-key" class="input-text required-entry" value="" />
     </div>
