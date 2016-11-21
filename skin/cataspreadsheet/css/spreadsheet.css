@@ -1,27 +1,27 @@
 
-#catalin-spreadsheet-form {
+#cata-spreadsheet-form {
     margin: 30px 0 0 0;
     width: 600px;
 }
 
-#catalin-spreadsheet-form .buttons-set {
+#cata-spreadsheet-form .buttons-set {
     margin: 15px 0 0 0;
 }
 
-#catalin-spreadsheet-form input {
+#cata-spreadsheet-form input {
     width: 100%;
 }
 
-#catalin-spreadsheet-form button {
+#cata-spreadsheet-form button {
     display: inline-block;
     margin: 0 10px 0 0;
     color: #fff;
 }
 
-#catalin-spreadsheet-load {
+#cata-spreadsheet-load {
     background: #1e90ff;
 }
 
-#catalin-spreadsheet-save {
+#cata-spreadsheet-save {
     background: #008000;
 }
