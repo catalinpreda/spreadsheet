@@ -6,4 +6,14 @@
             <version>0.0.1</version>
         </Cata_Spreadsheet>
     </modules>
+
+    <frontend>
+        <layout>
+            <updates>
+                <cataspreadsheet>
+                    <file>cataspreadsheet.xml</file>
+                </cataspreadsheet>
+            </updates>
+        </layout>
+    </frontend>
 </config>
